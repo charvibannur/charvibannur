@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ☎️ Contact me
+
+https://img.shields.io/badge/https://www.linkedin.com/in/charvi-bannur-9753b5203/?style=for-the-badge&logo=linkedin&logoColor=white
 ## 🏆 GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=charvibannur&count_private=true&theme=react&showicons=true)]()
