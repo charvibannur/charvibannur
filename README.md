@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charvibannur&langs_count=5&theme=react)]()
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charvibannur&theme=react)](https://git.io/streak-stats)
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=charvibannur&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
