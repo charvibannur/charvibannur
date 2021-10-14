@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## ☎️ Contact me
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.linkedin.com/in/charvi-bannur-9753b5203/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 🏆 GitHub Stats
 
