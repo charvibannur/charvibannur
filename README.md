@@ -1,4 +1,4 @@
-### Hey there, I am Charvi Bannur 👋
+# Hey there, I am Charvi Bannur 👋
 
 I'm a Computer science under-grad student at PES University. I'm extremely passionate about my work and I have a flair for detail. My current interests lie in the field of Deep learning and cyber security and I would be thrilled to be a part of some amazing projects regarding the same.
 
@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🏆 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=charvibannur&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charvibannur&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=charvibannur&count_private=true&theme=react-dark&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charvibannur&langs_count=5&theme=react-dark)]()
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=charvibannur&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
