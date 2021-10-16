@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/charvibannur/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 ## 🏆 GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=charvibannur&count_private=true&theme=react&showicons=true)]()
