@@ -54,5 +54,4 @@ I'm a Computer science under-grad student at PES University. I'm extremely passi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charvibannur&theme=react)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=charvibannur&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
