@@ -1,6 +1,6 @@
 # Hey there, I am Charvi Bannur 👋
 
-I'm a Computer science under-grad student at PES University. I'm extremely passionate about my work and I have a flair for detail. My current interests lie in the field of Deep learning and graph theory and I would be thrilled to be a part of some amazing projects regarding the same.
+I'm a Computer science Graduate Student at UC San Diego. I'm extremely passionate about my work and I have a flair for detail. My current interests lie in the field of Deep learning and graph theory and I would be thrilled to be a part of some amazing projects regarding the same.
 
 ## 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
